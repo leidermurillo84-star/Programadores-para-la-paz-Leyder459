@@ -1,0 +1,9 @@
+1. ¿Qué hace esta ruta?
+Esta ruta utiliza el método HTTP POST para permitir que el cliente o usuario envíe datos de forma segura hacia el servidor en formato JSON. El servidor recibe un objeto que contiene un "mensaje" a través del cuerpo de la petición (req.body.mensaje), procesa dicha información y responde automáticamente confirmando la recepción con un estado de éxito ("Reporte recibido") junto al mismo texto enviado.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+En el contexto de una aplicación para la comunidad, esta ruta POST podría servir para:
+- Crear un canal de denuncias ciudadanas o reportes de emergencias (por ejemplo, reportar un bache en la calle, un semáforo dañado o una luminaria rota).
+- Enviar alertas de seguridad vecinal en tiempo real.
+- Recibir sugerencias, quejas o comentarios de los ciudadanos dirigidos a la administración de la comunidad.
+- Registrar solicitudes de asistencia comunitaria o inscripciones a eventos locales de manera digital.

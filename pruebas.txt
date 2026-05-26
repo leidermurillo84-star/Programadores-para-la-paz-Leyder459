@@ -1,0 +1,10 @@
+Resultados de las pruebas de rutas (Semana 5):
+
+1. http://localhost:3000
+Qué ocurre: El servidor responde con un texto plano que dice "¡Servidor de la semana 5 corriendo!". Es la ruta raíz (GET /).
+
+2. http://localhost:3000/saludo
+Qué ocurre: El servidor devuelve el mensaje de bienvenida "¡Hola! Bienvenido al servicio de salud.".
+
+3. http://localhost:3000/mensaje/juan
+Qué ocurre: El servidor toma el parámetro dinámico de la URL y responde de forma personalizada: "Hola juan, este es un mensaje personalizado.".
