@@ -1,0 +1,3 @@
+Repositorio: Es un almacen que nos permite llevar organizado digitalmente la informacion y la mantiene segura,disponible es decir como terner una memoria digital.
+Commit: Este nos permite de manera segura y organizada registrar los proyectos de sotfware, guardando asi los trabajado.
+Push: Este nos permite de manera segura registrar los cambios hechos para despues poderlos compartir esto lo hace de manera remota.

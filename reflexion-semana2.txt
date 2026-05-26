@@ -1,0 +1,2 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+Respuesta: Es menester, saber manejar la terminal poruqe esto te va permitir llevar un order a la hora de subir y organizar los proyectos para poderlos compartir, poruqe si no se sabe manejar bien la terminal se tendria una disparidad con los archivos creados y se perderia mucho tiempo cuando sea la hora de buscarlos, el buen manejo de la terminal te permite una buena eficacia y celeridad a la hora de crear tus archivos.
